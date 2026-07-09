@@ -122,12 +122,12 @@ export const projects: Project[] = [
 ];
 
 export const contactInfo = {
-  email: "damchua2411@gmail.com",
+  email: "trannamduong2411@gmail.com",
   phone: "0356 241 101",
   phoneRaw: "0356241101",
   phone2: "0972 120 728",
   phoneRaw2: "0972120728",
   avatar:
-    "https://scontent.fhan17-1.fna.fbcdn.net/v/t1.6435-9/76216446_3038441466381944_194504418702393344_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHDLxRfR-INL2IJ-KGfTy2Rn0FVXFblU-OfQVVcVuVT49vms1q9FCxc6ls55S-otDpduR9JQO3P0-voirMqlXXa&_nc_ohc=8SbT-pIvmioQ7kNvwFAruPV&_nc_oc=AdpzyU3FlpniWD--1WjqAyA4MyZ-5UTdSLt8jBeyXnpwF9kETRkBUiixknv6B6it2-U&_nc_zt=23&_nc_ht=scontent.fhan17-1.fna&_nc_gid=7WsNQBvJ9X50jEzpbFyZGA&_nc_ss=7b2a8&oh=00_Af8D1dK20LuqdKvo62uVPxHTmF-lAYJJJvOBIzICP5SOFw&oe=6A53081A",
+    "https://avatars.githubusercontent.com/u/103105159?s=400&u=ef2524393641129c1eabdac86e31b069c08faf36&v=4",
 };
 
